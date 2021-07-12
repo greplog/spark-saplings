@@ -1,0 +1,5 @@
+cd bin
+
+spark-shell
+
+spark-shell --help
